@@ -25,14 +25,8 @@ pip install -r requirements.txt
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/cat-dog-classification.git
+git clone https://github.com/ShivNandanJha/Cat_Dog_image_classification.git
 ```
 
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Author
-
-Your Name
-
-Feel free to modify this README according to your project structure and specific details. Good luck with your image classification project!
